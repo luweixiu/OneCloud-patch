@@ -4,6 +4,10 @@ git clone -b v24.10.6 --single-branch --filter=blob:none https://github.com/immo
 cd immortalwrt
 curl -SL https://github.com/luweixiu/OneCloud-patch/archive/refs/heads/v1.tar.gz | tar -zx --strip-components=1
 ```
+```shell
+./scripts/feeds update -a
+```
+
 ## 添加mosdns插件
 
 * 需要 Go 语言 1.25.x 或更高版本
