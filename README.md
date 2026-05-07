@@ -12,6 +12,8 @@ curl -SL https://github.com/luweixiu/OneCloud-patch/archive/refs/heads/v1.tar.gz
 
 ./scripts/feeds install -a -f
 
+make menuconfig
+
 ```
 
 ## 添加mosdns插件
