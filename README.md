@@ -1,6 +1,7 @@
-# OneCloud-patch
-玩客云补丁
-
+# 此仓库使用方法
+```shell
+git clone https://github.com/
+  ```
 # 添加mosdns插件
 
   * requires golang 1.25.x or latest version
