@@ -7,7 +7,7 @@ curl -SL https://github.com/luweixiu/OneCloud-patch/archive/refs/heads/v1.tar.gz
 ```
 ## 添加mosdns插件
 
-  * requires golang 1.25.x or latest version
+  * 需要 Go 语言 1.25.x 或更高版本
   ```shell
   rm -rf feeds/packages/lang/golang
   git clone https://github.com/sbwml/packages_lang_golang -b 26.x feeds/packages/lang/golang
