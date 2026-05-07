@@ -1,5 +1,4 @@
-# 此仓库使用方法
-#下载immortalwrt源码
+## 下载immortalwrt源码
 ```shell
 git clone -b v24.10.6 --single-branch --filter=blob:none https://github.com/immortalwrt/immortalwrt
 cd immortalwrt
