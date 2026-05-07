@@ -1,7 +1,7 @@
 # 此仓库使用方法
 ```shell
-git clone https://github.com/
-  ```
+git clone https://github.com/luweixiu/OneCloud-patch -b main 
+```
 # 添加mosdns插件
 
   * requires golang 1.25.x or latest version
