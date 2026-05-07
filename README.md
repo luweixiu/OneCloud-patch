@@ -8,6 +8,8 @@ cd immortalwrt
 
 curl -SL https://github.com/luweixiu/OneCloud-patch/archive/refs/heads/v1.tar.gz | tar -zx --strip-components=1
 
+./scripts/feeds update -a
+
 ./scripts/feeds install -a -f
 
 ```
