@@ -17,7 +17,7 @@ rm -rf feeds/packages/net/v2ray-geodata
 git clone https://github.com/sbwml/luci-app-mosdns -b v5 package/mosdns
 git clone https://github.com/sbwml/v2ray-geodata package/v2ray-geodata
 ```
-## 单独编译MmsDNS
+### 单独编译MmsDNS
 ```shell
 make package/mosdns/luci-app-mosdns/compile V=s
 ```
