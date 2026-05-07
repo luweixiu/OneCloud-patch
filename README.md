@@ -2,13 +2,7 @@
 #下载immortalwrt源码
 ```shell
 git clone -b v24.10.6 --single-branch --filter=blob:none https://github.com/immortalwrt/immortalwrt
-```
-
-```shell
 cd immortalwrt
-```
-
-```shell
 curl -SL https://github.com/luweixiu/OneCloud-patch/archive/refs/heads/v1.tar.gz | tar -zx --strip-components=1
 ```
 ## 添加mosdns插件
