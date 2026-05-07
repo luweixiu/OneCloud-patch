@@ -1,5 +1,8 @@
 # 此仓库使用方法
 ```shell
+#下载immortalwrt源码
+git clone -b v24.10.6 --single-branch --filter=blob:none https://github.com/immortalwrt/immortalwrt
+
 curl -SL https://github.com/luweixiu/OneCloud-patch/archive/refs/heads/v1.tar.gz | tar -zx --strip-components=1
 ```
 # 添加mosdns插件
