@@ -1,6 +1,6 @@
 # 此仓库使用方法
 ```shell
-git clone https://github.com/luweixiu/OneCloud-patch -b main 
+curl -SL https://github.com/luweixiu/OneCloud-patch/archive/refs/heads/v1.tar.gz | tar -zx --strip-components=1
 ```
 # 添加mosdns插件
 
